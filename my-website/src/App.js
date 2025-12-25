@@ -8,8 +8,7 @@ function App() {
     <div className="App">
       <heaeder className = "App-header">
         <GuessTheNumberGame /> {}
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5073720718025211"
-          crossorigin="anonymous"></script>
+          
 
           <h1>Welcome to My Website</h1>
           <h2>Laurence Liu</h2>
